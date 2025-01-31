@@ -5,16 +5,16 @@
 Webathon-BootUp-The-Next-Chapter/
 
 
-├── Week-1 
+├── Week-1/
 │   ├── Task-1  
 │  
-├── week-2    
+├── week-2/  
 │   ├── Task-1  
 │  
-├── week-3     
+├── week-3/    
 │   ├── Task-1 
 | 
-├──week-4
+├──week-4/
 │  ├── Task-1
 |
 └── final project
